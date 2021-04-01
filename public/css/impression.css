@@ -1,0 +1,8 @@
+@media print {
+    /* On redéfinit l'élément paragraphe pour l'impression */
+    p {
+        font-size: 15pt; /* On fixe la taille de la police à 15 points */
+        color: black; /* On attribue la couleur noire au texte */
+    }
+}
+
